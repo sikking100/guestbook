@@ -12,7 +12,6 @@ class AdminController extends GetxController {
 
   @override
   void onReady() {
-    // TODO: implement onReady
     super.onReady();
     if (FirebaseAuth.instance.currentUser == null) {
       log("message");
