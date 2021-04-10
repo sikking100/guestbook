@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "255968634587",
+    "firebase_url": "https://sigit-7f019.firebaseio.com",
+    "project_id": "sigit-7f019",
+    "storage_bucket": "sigit-7f019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255968634587:android:c5bd6de73bb682a6c40efe",
+        "android_client_info": {
+          "package_name": "id.telkom.guestbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255968634587-h2h576oagbu0up79nooko1lgbmppic8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGSwLDv35ZSo7yx1FvCWvTXy2g6B1wfdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255968634587-h2h576oagbu0up79nooko1lgbmppic8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255968634587:android:713da4198e9681e8",
+        "android_client_info": {
+          "package_name": "inc.crimeexecute.sigit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255968634587-ef896q7acun19fojn46ep2cssk9notsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.crimeexecute.sigit",
+            "certificate_hash": "c13c019e411b0186972928f3b9dc6ad72b3dd9bb"
+          }
+        },
+        {
+          "client_id": "255968634587-h2h576oagbu0up79nooko1lgbmppic8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGSwLDv35ZSo7yx1FvCWvTXy2g6B1wfdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255968634587-h2h576oagbu0up79nooko1lgbmppic8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
