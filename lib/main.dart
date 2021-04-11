@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      initialRoute: Routes.ADMIN,
+      initialRoute: Routes.GUEST,
       getPages: Pages.getPage,
     );
   }
