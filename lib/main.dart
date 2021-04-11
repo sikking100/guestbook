@@ -14,11 +14,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Buku Tamu',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      initialRoute: Routes.GUEST,
+      initialRoute: Routes.ADMIN,
       getPages: Pages.getPage,
     );
   }
